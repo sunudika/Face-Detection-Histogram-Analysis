@@ -1,0 +1,3 @@
+Face Recognition : https://github.com/Mjrovai/OpenCV-Face-Recognition
+Edge Detection : https://people.revoledu.com/kardi/tutorial/Python/Video+Analysis+using+OpenCV-Python.html
+Histogram Analysis : https://nrsyed.com/2018/02/08/real-time-video-histograms-with-opencv-and-python/
